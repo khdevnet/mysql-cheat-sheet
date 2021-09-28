@@ -17,7 +17,7 @@ END
 ```
 * Execute
 ```SQL
-call enzodb.dorepeat('[{"id":1,"name":"t1"},{"id":2,"name":"t2"},{"id":3,"name":"t3"}]');
+call dorepeat('[{"id":1,"name":"t1"},{"id":2,"name":"t2"},{"id":3,"name":"t3"}]');
 ```
 
 ## Resources
